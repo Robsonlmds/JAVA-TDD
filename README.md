@@ -61,11 +61,6 @@ A classe `ContaTest` contém testes para validar as operações da classe `Conta
 - `depositar_numeroContaValidoValorInvalido_saldoSomaDeposito`: Verifica que um depósito com valor negativo não altera o saldo.
 - `depositar_numeroContaValidoValorInvalido_saldoSubDeposito`: Verifica que um saque com valor negativo não altera o saldo.
 
-## Melhorias Futuras
-
-- Corrigir a lógica dos métodos `depositar` e `sacar` para garantir que somem e subtraiam corretamente do saldo.
-- Adicionar testes para verificar se o saldo não fica negativo após um saque.
-
 ## Requisitos
 
 - Java 11 ou superior
