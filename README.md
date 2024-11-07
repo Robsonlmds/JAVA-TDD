@@ -9,10 +9,6 @@
   </h5>
 </div>
 
-<h1 align="center">
-  <img alt="videoSite" title="videoSite" src="CheckCep/assets/checkcep.gif"/>
-</h1>
-
 # Projeto: Sistema de Conta Bancária com Testes Unitários
 
 Este projeto é uma implementação básica de um sistema de conta bancária com testes unitários em Java. Ele inclui uma classe `Conta` para representar contas bancárias e uma classe de teste `ContaTest` para validar as funcionalidades da conta.
