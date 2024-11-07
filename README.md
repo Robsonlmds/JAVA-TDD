@@ -9,7 +9,7 @@
   </h5>
 </div>
 
-# Projeto: Sistema de Conta Bancária com Testes Unitários
+# Sistema de Conta Bancária com Testes Unitários
 
 Este projeto é uma implementação básica de um sistema de conta bancária com testes unitários em Java. Ele inclui uma classe `Conta` para representar contas bancárias e uma classe de teste `ContaTest` para validar as funcionalidades da conta.
 
